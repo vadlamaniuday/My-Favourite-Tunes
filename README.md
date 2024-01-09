@@ -12,3 +12,8 @@ Created a Django Project which shows the user's favorite songs and artists
  5. Use `makemigrations` and `migrate` to initialize and update the database schema.
  6. Create a super user 
  7. Add the data from the front-end or back-end
+
+
+**References : **
+ 1. [Django Docs](https://docs.djangoproject.com/en/5.0/)
+ 2. [BootStrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
